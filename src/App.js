@@ -12,7 +12,7 @@ class App extends React.Component{
         }
     }
     perPage =10;
-    page = 2;
+    page = 1;
 
    
     handlePerPageChange = event => {
