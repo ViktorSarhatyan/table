@@ -1,0 +1,40 @@
+.text-center{
+  text-align: center;
+}
+  .og-li{
+    border-bottom: 1px solid #3e4042;
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  .og-li-col:first-child{
+    width:5%;
+  }
+
+  .og-li-col:nth-child(2){
+    text-align: left;
+  } 
+
+  .og-li-col:nth-child(3){
+    width: 30%;
+  } 
+
+  .og-li-col:nth-child(5), 
+  .og-li-col:nth-child(6) {
+    width: 10%;
+  } 
+  .og-li-col{
+    width:15%;
+  }
+  .og-li-head{
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: capitalize;
+  }
+  .hide{
+    display:none;
+  }
+  .no-match{
+    padding: 20px;
+    font-size: 24px;
+  }
